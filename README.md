@@ -6,7 +6,7 @@ Azure Resource Group, Azure Data Factory, Blob storage, Terraform, Azure CLI
 ## Project Overview:
 1. Setting Up Environment:
 Confirming Terraform installation and setting up Azure CLI.
-Creating a new project in PyCharm and preparing the environment.
+Creating a new project and preparing the environment.
 2. Infrastructure Setup:
 Using Terraform to build Azure resources: Resource Group, Storage Account, Blob Storage.
 Emphasizing naming conventions and correct resource names.
